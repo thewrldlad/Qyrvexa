@@ -1,7 +1,8 @@
-# SentinelToken
+# Qyrvexa
 
-An open-source canary token and honeytoken system for detecting and alerting on unauthorized interactions.
+An open-source deception and threat detection platform.
 
 ## About
 
-SentinelToken is an open-source security project designed to help detect unauthorized interaction with decoy resources such as tokens, URLs, credentials, and documents.
+Qyrvexa is an open-source security project designed to help detect unauthorized interaction with decoy resources such as tokens, URLs, credentials, and documents.
+
